@@ -1,0 +1,4 @@
+.vscode
+*.png
+*.code-workspace
+__pycache__
